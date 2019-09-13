@@ -1,0 +1,188 @@
+.Blackbox {
+  background-color: rgb(31, 30, 30);
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 40%;
+  z-index: 2;
+}
+.contenidobooking{
+  margin-top: -15%;
+}
+.BookingButton1{
+  margin-top: 10% !important;
+  margin-left:35%;
+  position: absolute;
+  top: 82% !important;
+  left:35%;
+}
+.erorlogin{
+  margin-top: 24%;
+  text-align: center;
+}
+.BookingButton0{
+  margin-top: 5% !important;
+  margin-left:35%;
+  position: absolute;
+  top: 82% !important;
+  left:35%;
+
+}
+.hourcheck1{
+  margin-left: 22%;
+  top: 74%;
+  position: absolute;
+}
+.hourcheck{
+  margin-left: 45%;
+  top: 72.8%;
+  position: absolute;
+}
+.nueve1{
+  position: absolute;
+  top:78%;
+  left:32%;
+}
+.doce1{
+  position: absolute;
+  top:78%;
+  left:52%;
+}
+.nueve{
+  position: absolute;
+  top:76%;
+  left:62%;
+}
+.doce{
+  position: absolute;
+  top:79%;
+  left:62%;
+}
+.trece{
+  margin-top: 1%;
+}
+.quince{
+ 
+    margin-top: 3%;
+  
+}
+.catorce{
+  margin-top: 1%;
+}
+.okBooking3{
+
+  margin-top:10% !important;
+  margin-left:15%;
+  font-size: 1.2rem;
+  width: 70%;
+}
+.spanok2{
+  font-family: 'Montserrat', sans-serif;
+}
+.okBooking2{
+  
+ margin-top:10% !important;
+ margin-left:15%;
+ font-size: 1.2rem;
+ width: 70%;
+}
+.okBooking{
+  font-family: 'Montserrat', sans-serif;
+ margin-top:30% !important;
+ margin-left:15%;
+}
+
+.icon-white{
+  color: white;
+}
+.inputgroup{
+  
+  margin-top: -15%;
+  width: 60%;
+}
+input{
+  color: #1080c2;
+}
+label{
+  top:-10px !important;
+}
+label.active{
+  top:-10px !important;
+}
+
+.material-icons.active {
+  color: #1080c2 !important;
+  }
+
+ .input[type="radio"]:checked+span:after, [type="radio"].with-gap:checked+span:before, [type="radio"].with-gap:checked+span:after {
+    border: 2px solid #1080c2 !important;
+}
+.input[type="radio"]:checked+span:after, [type="radio"].with-gap:checked+span:after {
+  background-color: #1080c2 !important;
+}
+  /* TEXT */
+
+  .input-field input[type=text] + label, .materialize-textarea:focus:not([readonly]) + label {
+    color: #ffffff !important;
+   }
+   
+   .input-field input[type=text], .materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #ffffff !important;
+    box-shadow: 0 1px 0 0 #ffffff !important;
+   }
+   
+   
+   .input-field input[type=text]:focus + label, .materialize-textarea:focus:not([readonly]) + label {
+    color: #1080c2 !important;
+   }
+   
+   .input-field input[type=text]:focus, .materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #1080c2 !important;
+    box-shadow: 0 1px 0 0 #1080c2 !important;
+   }
+
+/* INFO */
+.texareacontact1{
+  color: #1080c2;
+}
+
+.input-field textarea + label, .materialize-textarea:focus:not([readonly]) + label {
+  color: #ffffff !important;
+ }
+ 
+ .input-field textarea, .materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #ffffff !important;
+  box-shadow: 0 1px 0 0 #ffffff !important;
+ }
+ 
+ 
+ .input-field textarea:focus + label, .materialize-textarea:focus:not([readonly]) + label {
+  color: #1080c2 !important;
+ }
+ 
+ .input-field textarea:focus, .materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #1080c2 !important;
+  box-shadow: 0 1px 0 0 #1080c2 !important;
+ }
+
+/* TEL */
+   
+  .input-field input[type=tel] + label, .materialize-textarea:focus:not([readonly]) + label {
+    color: #ffffff !important;
+   }
+   
+   .input-field input[type=tel], .materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #ffffff !important;
+    box-shadow: 0 1px 0 0 #ffffff !important;
+   }
+   
+   
+   .input-field input[type=tel]:focus + label, .materialize-textarea:focus:not([readonly]) + label {
+    color: #1080c2 !important;
+   }
+   
+   .input-field input[type=tel]:focus, .materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #1080c2 !important;
+    box-shadow: 0 1px 0 0 #1080c2 !important;
+   }

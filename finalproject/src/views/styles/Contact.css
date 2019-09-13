@@ -1,0 +1,93 @@
+
+.contactBlack{
+    background-image: url(../../img/contact.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 120% !important;
+    width:100vw;
+} 
+
+.cardcontact3{
+    width:200%;
+    height: 100% !important;
+    left:-50%;
+    background: -webkit-linear-gradient(45deg,  #3d4141 0%,#313133 100%);
+    background: -o-linear-gradient(45deg,  #848586 0%,#596a72 100%);
+    background: linear-gradient(45deg,  #262829 0%,#4b4b4e 100%);
+    margin-bottom: 0% !important;  
+}
+.cardback5{
+
+    background-color: #45474700 !important;
+    background: none;
+    border-top: 1px solid rgba(255, 0, 0, 0) !important;
+    border-bottom: 1px solid rgba(255, 0, 0, 0) !important;
+}
+.rowcontact2{
+    margin-left:0%;
+    background-color: rgba(255, 0, 0, 0);
+    border-radius: 8px !important;
+    width: 60%;
+    height: 100% !important;
+    margin-bottom:0%;
+    
+    }
+.cardcontact2{
+    width:60%;
+    height: 100% !important;
+    margin-left: 20%;
+    background-color: rgba(36, 35, 35, 0) !important;
+    background: #cedce7;
+  background: -webkit-linear-gradient(45deg,  #3d4141 0%,#313133 100%);
+  background: -o-linear-gradient(45deg,  #848586 0%,#596a72 100%);
+  background: linear-gradient(45deg,  #262829 0%,#4b4b4e 100%);
+    border-radius: 15px;
+    margin-top: 8%;
+    padding-left :5%;
+    padding-right: 5%;
+    -webkit-box-shadow: -8px 9px 21px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: -8px 9px 21px 4px rgba(0,0,0,0.75);
+box-shadow: -8px 9px 21px 4px rgba(0,0,0,0.75);
+}
+
+.cardcontactinto{
+    width:60%;
+    height: 100% !important;
+    margin-left: 20%;
+    background-color: rgba(36, 35, 35, 0) !important;
+    background: #cedce7;
+  background: -webkit-linear-gradient(45deg,  #3d4141 0%,#313133 100%);
+  background: -o-linear-gradient(45deg,  #848586 0%,#596a72 100%);
+  background: linear-gradient(45deg,  #262829 0%,#4b4b4e 100%);
+    border-radius: 15px;
+    margin-top: 8%;
+    padding-left :5%;
+    padding-right: 5%;
+    -webkit-box-shadow: -8px 9px 21px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: -8px 9px 21px 4px rgba(0,0,0,0.75);
+box-shadow: -8px 9px 21px 4px rgba(0,0,0,0.75);
+margin-bottom: 4%;
+padding-top: 0.5%;
+padding-bottom: 1%;
+}
+
+.boxcontact{
+    margin-top: 3%;
+}
+ul {
+    list-style: none;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+
+li {
+    display: inline;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8em;
+    margin-left: 20px;
+}
+
+.butcont{
+    margin-left:45%;
+}

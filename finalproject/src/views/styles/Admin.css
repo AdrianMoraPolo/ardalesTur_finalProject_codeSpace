@@ -1,0 +1,11 @@
+.isAdminBackground{
+    background-image: url(../../img/hometwo.jpg) !important;
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-repeat: no-repeat;
+    background-position-y: 60%;
+background-attachment: fixed;
+background-position: center;
+height: auto;
+
+
+}

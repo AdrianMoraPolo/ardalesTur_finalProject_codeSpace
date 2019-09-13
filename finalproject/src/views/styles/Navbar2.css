@@ -1,0 +1,41 @@
+nav{
+    background-color: rgb(202, 85, 85,0) !important;
+    box-shadow:  none !important;
+    font-family: 'Arimo', sans-serif;
+    font-weight: bold;
+    text-shadow: 0px 2px 8px rgba(0,0,0,0.94);
+    }
+    .nav2{
+        position: absolute;
+        margin-left: -5.1%;
+        font-size: 1.25rem;
+    }
+    nav ul a:hover{
+        background-color: rgba(0,0,0,0) !important;
+        color: rgb(205, 205, 206) !important;
+        
+    }
+    
+    nav ul{
+        padding-top: 1% !important;
+        margin-left: 15% !important;
+        /* posicion en el navbar */
+    }
+    nav ul a {
+        font-size: 1.5em !important;
+        margin-left: 5% !important;
+        /* separacion en el navbar */
+    }
+    .x{
+        margin-left: 20% !important;
+        width: 100%;
+    }
+        
+    .n{
+        margin-left: 3.47% !important;
+    }
+    .m{
+        margin-left: 3.5% !important;
+    }
+    
+    

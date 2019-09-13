@@ -1,0 +1,45 @@
+
+
+
+.backgrounddown {
+    background-image: url(../../img/hometwo.jpg);
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position-y: 16%;
+  } 
+
+  .bookingbuttonhome{
+    
+    top: 71%!important;
+    position: absolute;
+}
+.CONTACTA{
+  cursor: pointer;
+}
+.h1{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 16%;
+    margin-left: 6%;
+    text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2);
+    position: absolute !important;
+    z-index: 4;
+      /* font-family: 'Montserrat', sans-serif;
+    color: white;
+    /* margin-top: 16%; */
+    /* width: 15%; */
+    /* margin-left: 6%; */
+    /* text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    font-size: 5rem; */ 
+}
+h1{
+    font-weight: bold;
+}
+.Booking{
+    margin-left:6%;
+}
+/* .test4{
+  height: auto !important;
+} */

@@ -1,0 +1,87 @@
+.contacts{
+    margin-top:5%;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.tabla{
+    margin-top: 15% !important;
+}
+.tabla2{
+    margin-top:15% !important;
+}
+.titletables{
+    margin-top: -8%;
+    position: absolute;
+    margin-bottom: 5% !important;
+}
+.titulopregruntas{
+    font-family: 'Montserrat', sans-serif !important;
+    margin-top: -9.9%;
+    position: absolute;
+    margin-bottom: 5% !important;
+}
+.titletables2{
+    font-family: 'Montserrat', sans-serif !important;
+    margin-top: -7%;
+    position: absolute;
+    margin-bottom: 5% !important;
+}
+.tableta{
+    margin-bottom: 10%!important;
+   
+}
+.tableta7{
+    margin-top: 12%!important;
+   
+}
+.tableta2{
+    margin-bottom: 10%!important;
+    
+}
+.contacttitle{
+    font-weight: bold !important;
+}
+.rowcontact{
+margin-left:0%;
+background-color: rgba(255, 0, 0, 0);
+border-radius: 8px !important;
+width: 60%;
+
+}
+
+.cardcontact{
+    margin: 0% !important;
+    width: 100% !important;
+    border-radius: 8px !important;
+}
+
+.cardcontact2{
+    background-color: rgba(255, 0, 0, 0);
+    border-radius: 8px !important;
+    
+}
+.telo{
+ position: absolute;
+ top: 30%;
+    left: 85%;
+    font-weight: bold;
+}
+.emailo{
+    top: 30%;
+    left: 50%;
+    position: absolute; 
+    font-weight: bold;
+}
+
+.telo1{
+    position: absolute;
+    top: 30%;
+       left: 80%;
+       
+   }
+   .emailo1{
+       top: 30%;
+       left: 45%;
+       position: absolute; 
+      
+   }

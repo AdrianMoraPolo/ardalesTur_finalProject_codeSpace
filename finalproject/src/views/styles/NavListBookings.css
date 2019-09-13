@@ -1,0 +1,47 @@
+nav{
+    background-color: rgb(202, 85, 85,0) !important;
+    box-shadow:  none !important;
+    font-family: 'Arimo', sans-serif;
+    font-weight: bold;
+    
+    }
+    .nav5{
+        font-size: 125%;
+        margin-left: 55% !important;
+        -webkit-transition-delay: 1s !important;
+    }
+    nav ul a:hover{
+        background-color: rgba(0,0,0,0) !important;
+        color: rgb(205, 205, 206) !important;
+        -webkit-transition-delay: 1s !important;
+        
+    }
+    
+    nav ul{
+        padding-top: 1% !important;
+        margin-left: 15% !important;
+        /* posicion en el navbar */
+    }
+    nav ul a {
+        font-size: 1.5em !important;
+        margin-left: 5% !important;
+        /* separacion en el navbar */
+    }
+    .ac{
+        margin-left: 1.7% !important;
+        width: 100%;
+    }
+    .bc{
+        margin-left: 70% !important;
+        width: 100%;
+    }
+        
+    .c{
+        margin-left: 5% !important;
+    }
+    .cc{
+        margin-left: 1.2% !important;
+        width: 100%;
+    }
+    
+    

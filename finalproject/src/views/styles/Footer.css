@@ -1,0 +1,39 @@
+.footerback{
+    background-color:rgb(30, 30, 31);
+    height: 20vh;
+    width:  100%;
+    box-shadow: 0 4px 25px 0 rgba(0, 0, 0, 0.301),0 4px 25px 0 rgba(0, 0, 0, 0.24);
+}
+.footerback2{
+    background-color:#0b5783;
+  height: 6vh;
+  width:  100%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  box-shadow: 0 4px 25px 0 rgba(0, 0, 0, 0.301),0 4px 25px 0 rgba(0, 0, 0, 0.24);
+  color:white;
+}
+.footerback2letrilla{
+  color:white; 
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  font-weight:normal;
+  padding-left: 41%;
+}
+.footerback1letrilla{
+  padding-left: 42%;
+  padding-top: 0.5%;
+  margin-bottom: -1.2%;
+}
+.fot{
+margin-left: 8%!important;
+width:100%;
+color:white;
+}
+.footermenu{
+  left: 10%;
+  position: absolute;
+  margin-top: 5%;
+  width: 100%;
+}
+

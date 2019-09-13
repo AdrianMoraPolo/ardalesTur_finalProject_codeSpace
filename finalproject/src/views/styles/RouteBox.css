@@ -1,0 +1,133 @@
+.Blackboxor {
+    background-color: rgb(46, 45, 45);
+    position: absolute;
+    top: 0;
+    right: 0%;
+    height: 100vh;
+    width: 30%;
+    z-index: 5;
+  }
+  .lateral{
+    margin-top: 58%;
+  }
+  .BookingButtonRoute{
+    margin-top: -40%;
+    margin-left:32%;
+   
+  }
+  .tituloparrafo2{
+    font-family: 'Montserrat', sans-serif;
+    width: 100% !important;
+    margin-left: -45% !important;
+    margin-top: -0%;
+    font-size: 2.55rem;
+  }
+  .parrafo1{
+font-weight: bold;
+  }
+  .tocho3{
+    padding: 1%;
+    letter-spacing: 1px;
+    margin-top:60%;
+  }
+  .tocho2{
+    padding: 1%;
+    letter-spacing: 1px;
+    margin-top:50%;
+  }
+  .tocho1{
+    padding: 1%;
+    letter-spacing: 1px;
+    margin-top:60%;
+  }
+  .norma1{
+   margin-top: 6% !important;
+   margin-left: 6% !important;
+  }
+  .paragu{
+    margin-left: 1% !important;
+  }
+  .paragu2{
+    margin-top:-1% !important;
+    margin-left: 11% !important;
+  }
+  .smoke{
+    margin-left: -13% !important;
+  }
+  .continuar{
+    margin-top: 3% !important;
+  }
+  .Ardales{
+    color:rgb(14, 124, 214);
+    font-size: 2.55rem;
+  }
+  .Tur{
+    color:rgb(147, 202, 17);
+    font-size: 2.55rem;
+  }
+  h5{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .normastitulo{
+    padding-top: 20%;
+  }
+  .icon-white{
+    color: white;
+  }
+  .inputgroup3{
+    
+    margin-top: -45%!important;
+    width: 100%;
+  }
+  input{
+    color: #1080c2;
+  }
+  label{
+    top:-10px !important;
+  }
+  label.active{
+    top:-10px !important;
+  }
+  
+  .material-icons.active {
+    color: #1080c2 !important;
+    }
+  
+    .input-field input[type=text] + label, .materialize-textarea:focus:not([readonly]) + label {
+      color: #ffffff !important;
+     }
+     
+     .input-field input[type=text], .materialize-textarea:focus:not([readonly]) {
+      border-bottom: 1px solid #ffffff !important;
+      box-shadow: 0 1px 0 0 #ffffff !important;
+     }
+     
+     
+     .input-field input[type=text]:focus + label, .materialize-textarea:focus:not([readonly]) + label {
+      color: #1080c2 !important;
+     }
+     
+     .input-field input[type=text]:focus, .materialize-textarea:focus:not([readonly]) {
+      border-bottom: 1px solid #1080c2 !important;
+      box-shadow: 0 1px 0 0 #1080c2 !important;
+     }
+  
+     
+    .input-field input[type=tel] + label, .materialize-textarea:focus:not([readonly]) + label {
+      color: #ffffff !important;
+     }
+     
+     .input-field input[type=tel], .materialize-textarea:focus:not([readonly]) {
+      border-bottom: 1px solid #ffffff !important;
+      box-shadow: 0 1px 0 0 #ffffff !important;
+     }
+     
+     
+     .input-field input[type=tel]:focus + label, .materialize-textarea:focus:not([readonly]) + label {
+      color: #1080c2 !important;
+     }
+     
+     .input-field input[type=tel]:focus, .materialize-textarea:focus:not([readonly]) {
+      border-bottom: 1px solid #1080c2 !important;
+      box-shadow: 0 1px 0 0 #1080c2 !important;
+     }
